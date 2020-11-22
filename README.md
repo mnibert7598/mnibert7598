@@ -13,11 +13,13 @@ My Master's Degree in Computer Science (Data Analytics) at FL Poly in Lakeland, 
 - How to create awesome data visualizations!
 - How to tell a story
 
-### ⚡ Fun fact: 
-I'll be getting a Corgi for the New Year!! We've already named him, Bunky.
-
-### ⚡ One line that describes me best? 
-Quiet but ambitious girl who loves to ~~cook~~ eat, learn new things and watch old 2000's sitcoms/crime shows. 
-
-### 🧠 My Goals
+### 🧠 My Top Goal is...
 - Finish school without having a nervous breakdown
+
+### ⚡ A Fun Fact about me is... 
+I'll be getting a Corgi for the New Year!! I've already named him, Bunky.
+
+### ✨ I am... 
+- Extremely Quiet but ambitious 
+- Lover of ~~cooking~~ eating
+- a 2000's sitcom/crime show meme generator 
