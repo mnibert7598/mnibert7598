@@ -6,5 +6,5 @@
 
 - 🔭 I’m currently working on my Master's Degree at FL Poly in Lakeland, FL. 
 - 🌱 I’m currently learning about how to use GitHub!
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'll be getting a Corgi for the New Year!!
+
