@@ -19,6 +19,8 @@ My Master's Degree in Computer Science (Data Analytics) at FL Poly in Lakeland, 
 ### ⚡ A Fun Fact about me is... 
 I'll be getting a Corgi for the New Year!! I've already named him, Bunky.
 
+<img src="https://github.com/mnibert7598/dataviz_final_project/blob/main/figures/precip_heat_02.png" width="70%" height="70%">
+
 ### ✨ I am... 
 - Extremely Quiet but ambitious 
 - Lover of ~~cooking~~ eating
